@@ -1,0 +1,7 @@
+[core]
+	editor = \"C:\\Users\\Szef\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[gui]
+	recentrepo = D:/Nowy folder
+[user]
+	email = michalsulka.a@gmail.com
+	name = Michał Sulka
